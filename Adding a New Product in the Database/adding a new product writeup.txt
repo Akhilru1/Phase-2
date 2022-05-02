@@ -1,0 +1,13 @@
+Adding a New Product (Write Up)
+
+1. index.html is the home page
+2. apache sever 9.0 is the server
+3. The webpage has 2 text area and a store button
+4. In the first text box enter the name of the product
+5. In the second text box enter the price of the product
+6. click the store button
+7. It calls the Productcontroller servlet post method 
+   and stores the record using the help of hibernate
+
+
+ 
